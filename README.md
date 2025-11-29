@@ -1,3 +1,5 @@
+![Full page screenshot of the landing page](farmtomarket-lp-fullpage-screenshot.png)
+
 # Getting Started
 
 **Use your preferred IDE**
